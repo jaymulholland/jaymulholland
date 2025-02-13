@@ -1,5 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m currently working on games in Unity & Web
+- - 🔭 I’m currently working on unity prefabs & assets
+  - - 👯 I’m looking to collaborate on my interactive magazine asset
 - 🌱 I’m currently learning Software Development in Javascript
 <!--
 **jaymulholland/jaymulholland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
