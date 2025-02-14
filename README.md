@@ -1,7 +1,10 @@
 ## Hi there 👋
-- 🔭 I’m currently working on games in Unity & Web
-- - 🔭 I’m currently working on unity prefabs & assets
-  - - 👯 I’m looking to collaborate on my interactive magazine asset
+- 🔭 I’m currently working on...
+- -3D games in Unity & Web
+- -LOUTRA- immersive-sim artist residency videogame
+- -Unity gameplay mechanics, prefabs & 3D assets
+
+- 👯 I’m looking to collaborate on my Interactive Infinite Magazine in Unity!
 - 🌱 I’m currently learning Software Development in Javascript
 <!--
 **jaymulholland/jaymulholland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
