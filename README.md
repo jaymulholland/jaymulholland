@@ -1,8 +1,8 @@
 ## Hi there 👋
 - 🔭 I’m currently working on...
 - -3D games in Unity & Web
-- -LOUTRA- immersive-sim artist residency videogame
-- -Unity gameplay mechanics, prefabs & 3D assets
+- -LOUTRA, an immersive-sim artist residency videogame
+
 
 - 👯 I’m looking to collaborate on my Interactive Infinite Magazine in Unity!
 - 🌱 I’m currently learning Software Development in Javascript
