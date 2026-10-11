@@ -2,6 +2,7 @@
 - 🔭 I’m currently working on...
 - -3D games in Unity & Web
 - Commonplace (coming soon)
+- Claude Code Recolor, to customise icons and UI elements of the Claude Code Extension within Visual Studio Code
 - [LOUTRA](https://store.steampowered.com/app/4007750/Loutra_Inaugural_Group_Show/), an immersive artist residency videogame
 
 <!--
