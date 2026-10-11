@@ -1,7 +1,8 @@
 ## Hi there 👋
 - 🔭 I’m currently working on...
 - -3D games in Unity & Web
-- -LOUTRA, an immersive-sim artist residency videogame
+- - Commonplace (coming soon)
+- -LOUTRA, an immersive artist residency videogame
 
 
 <!--
