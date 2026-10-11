@@ -1,9 +1,8 @@
 ## Hi there 👋
 - 🔭 I’m currently working on...
 - -3D games in Unity & Web
-- - Commonplace (coming soon)
-- -LOUTRA, an immersive artist residency videogame
-
+- Commonplace (coming soon)
+- [LOUTRA](https://store.steampowered.com/app/4007750/Loutra_Inaugural_Group_Show/), an immersive artist residency videogame
 
 <!--
 **jaymulholland/jaymulholland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
